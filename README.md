@@ -23,7 +23,6 @@ There were 87 results but the top 5 establishments with a Rating of 5 and were w
     4) Premier Express
     5) Everest Stores Ltd
 
-4) How many establishments in each Local Authority area have a hygiene score of 0?
-<br>
+4) How many establishments in each Local Authority area have a hygiene score of 0?<br>
 ![hygiene_of_zero](/Resources/images/LocalAuthority_hygiene_zero.png)
 
