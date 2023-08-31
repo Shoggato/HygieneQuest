@@ -26,7 +26,4 @@ There were 87 results but the top 5 establishments with a Rating of 5 and were w
 4) How many establishments in each Local Authority area have a hygiene score of 0? 
 <<<<<<< HEAD
 ![hygiene of zero, AVOID](/12_hw/nosql-challenge/Resources/images/LocalAuthority_hygiene_zero.png)
-=======
-![hygiene of zero, AVOID]('Resources/images/LocalAuthority_hygiene_zero.png')
->>>>>>> beb6990f0284e7e3aadaddcffbbeb2658d0d86a9
 
